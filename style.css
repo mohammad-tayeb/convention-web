@@ -1,0 +1,12 @@
+.link {
+    color: black;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.white {
+    color: aliceblue;
+}
