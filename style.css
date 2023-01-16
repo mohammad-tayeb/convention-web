@@ -14,3 +14,13 @@
 .gray {
     color: rgb(71, 71, 71);
 }
+
+.negmargin {
+    margin-top: -15px;
+}
+
+.footer {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(0, 0, 28);
+}
